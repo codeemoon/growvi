@@ -3,8 +3,8 @@ import { Link, useLocation } from 'react-router-dom';
 function Navbar() {
   const location = useLocation();
 
-  // Don't show full navbar on legal pages, just a simple one
-  const isLegalPage = location.pathname === '/privacy' || location.pathname === '/terms';
+  // Don't show full navbar on legal pages and about page, just a simple one
+  const isLegalPage = location.pathname === '/privacy' || location.pathname === '/terms' || location.pathname === '/about';
 
   if (isLegalPage) {
     return (

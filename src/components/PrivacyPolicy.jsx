@@ -136,7 +136,7 @@ function PrivacyPolicy() {
             <p>
               If you have questions about this Privacy Policy or our data
               practices, please contact us at:{" "}
-              <strong>support@growvi.com</strong>
+              <strong>upadhyayakhand909@gmail.com</strong>
             </p>
           </section>
         </div>

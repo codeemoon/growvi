@@ -78,10 +78,10 @@ function Contact() {
               <div className="bg-slate-50 rounded-lg p-4">
                 <p className="text-sm text-slate-500 mb-1">Email</p>
                 <a
-                  href="mailto:support@growvi.com"
+                  href="mailto:upadhyayakhand909@gmail.com"
                   className="text-blue-600 font-semibold hover:underline"
                 >
-                  support@growvi.com
+                  upadhyayakhand909@gmail.com
                 </a>
               </div>
 

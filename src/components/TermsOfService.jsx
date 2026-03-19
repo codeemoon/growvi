@@ -204,7 +204,7 @@ function TermsOfService() {
             </h2>
             <p>
               For questions about these Terms, please contact us at:{" "}
-              <strong>support@growvi.com</strong>
+              <strong>upadhyayakhand909@gmail.com</strong>
             </p>
           </section>
         </div>
